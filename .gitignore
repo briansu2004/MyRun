@@ -44,3 +44,6 @@ typings
 # System Files
 .DS_Store
 Thumbs.db
+
+# ignore
+image/plan/*

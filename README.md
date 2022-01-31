@@ -2,6 +2,24 @@
 
 My Run
 
+## 2022-01-30
+
+Happy Chinese New Year of Tiger 🐯
+
+![](image/2022/20220130_01.jpg)
+
+![](image/2022/20220130_02.jpg)
+
+![](image/2022/20220130_03.jpg)
+
+![](image/2022/20220130_04.jpg)
+
+![](image/2022/20220130_05.jpg)
+
+![](image/2022/20220130_06.jpg)
+
+![](image/2022/20220130_07.jpg)
+
 ## 2022-01-29
 
 Happy Chinese New Year of Tiger 🐯

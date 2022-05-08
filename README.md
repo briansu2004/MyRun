@@ -2,6 +2,18 @@
 
 My Run
 
+## 2022-05-07
+
+(HM) 21.1km
+
+![](image/2022/20220507.jpg)
+
+## 2022-05-05
+
+11km
+
+![](image/2022/20220505.jpg)
+
 ## 2022-04-23
 
 10km
@@ -54,7 +66,7 @@ Family Day!
 
 BIT running log
 
-https://docs.google.com/spreadsheets/d/1PA5NMa6e-CV0-z6VolvO1qNIrpgBBw3uLaOJN45j2c8/edit?usp=sharing
+<https://docs.google.com/spreadsheets/d/1PA5NMa6e-CV0-z6VolvO1qNIrpgBBw3uLaOJN45j2c8/edit?usp=sharing>
 
 ## 2022-01-30
 

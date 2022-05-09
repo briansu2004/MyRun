@@ -6,13 +6,19 @@ My Run
 
 (HM) 21.1km
 
-![](image/2022/20220507.jpg)
+![](image/2022/20220507.png)
+
+Lessons taken:
+
+- Forgot to apply sunscreen before running (sunshine is strong)
+
+- Should have some carbs before running (aganist the wall at 19km, had to walk for the last 2 kms)
 
 ## 2022-05-05
 
 11km
 
-![](image/2022/20220505.jpg)
+![](image/2022/20220505.png)
 
 ## 2022-04-23
 

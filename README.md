@@ -8,6 +8,18 @@ My Run
 
 ![](image/2022/20220528.png)
 
+Garmin Forerunner 245, GPS Running Smartwatch with Advanced Dynamics, Slate Gray
+
+https://www.amazon.ca/gp/product/B07QG3Z9N2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+-56% 
+
+$186.89
+
+List Price: $419.99
+
+![](image/README/Garmin_245.png)
+
 ## 2022-05-24
 
 10.1km

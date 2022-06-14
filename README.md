@@ -2,13 +2,53 @@
 
 My Run
 
+## 2022-06-13
+
+10 km
+
+5 day in a row
+
+## 2022-06-12
+
+10 km
+
+## 2022-06-11
+
+10 km
+
+## 2022-06-10
+
+10 km
+
+## 2022-06-09
+
+10 km
+
+## 2022-06-08
+
+4 km
+
+## 2022-06-05
+
+4 km
+
+## 2022-06-04
+
+3.9 km
+
+## 2022-06-01
+
+10 km
+
+## 2022-05-30
+
+2.76 km
+
 ## 2022-05-29
 
 2.0 km
 
 1st run with Garmin 245
-
-
 
 ## 2022-05-28
 
@@ -18,9 +58,9 @@ My Run
 
 Garmin Forerunner 245, GPS Running Smartwatch with Advanced Dynamics, Slate Gray
 
-https://www.amazon.ca/gp/product/B07QG3Z9N2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+<https://www.amazon.ca/gp/product/B07QG3Z9N2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1>
 
--56% 
+-56%
 
 $186.89
 
@@ -39,7 +79,6 @@ List Price: $419.99
 10.1 km
 
 ![](image/2022/20220522.png)
-
 
 ## 2022-05-17
 

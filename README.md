@@ -2,6 +2,18 @@
 
 My Run
 
+## 2022-06-16
+
+Too hot so skip :-)
+
+## 2022-06-15
+
+10 km
+
+## 2022-06-14
+
+2 job interviews so skip :-)
+
 ## 2022-06-13
 
 10 km

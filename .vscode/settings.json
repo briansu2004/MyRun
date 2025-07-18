@@ -1,24 +1,24 @@
 {
   "vscode-corda.isCordaProject": false,
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#34c2b8",
+    "activityBar.activeBackground": "#401289",
     "activityBar.activeBorder": "#bf36c9",
-    "activityBar.background": "#34c2b8",
-    "activityBar.foreground": "#15202b",
-    "activityBar.inactiveForeground": "#15202b99",
-    "activityBarBadge.background": "#bf36c9",
+    "activityBar.background": "#401289",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#a94f16",
     "activityBarBadge.foreground": "#e7e7e7",
-    "sash.hoverBorder": "#34c2b8",
-    "statusBar.background": "#299a92",
+    "sash.hoverBorder": "#401289",
+    "statusBar.background": "#2b0c5c",
     "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#34c2b8",
-    "statusBarItem.remoteBackground": "#299a92",
+    "statusBarItem.hoverBackground": "#401289",
+    "statusBarItem.remoteBackground": "#2b0c5c",
     "statusBarItem.remoteForeground": "#e7e7e7",
-    "titleBar.activeBackground": "#299a92",
+    "titleBar.activeBackground": "#2b0c5c",
     "titleBar.activeForeground": "#e7e7e7",
-    "titleBar.inactiveBackground": "#299a9299",
+    "titleBar.inactiveBackground": "#2b0c5c99",
     "titleBar.inactiveForeground": "#e7e7e799",
     "commandCenter.border": "#e7e7e799"
   },
-  "peacock.color": "#299a92"
+  "peacock.color": "#2b0c5c"
 }

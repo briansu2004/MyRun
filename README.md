@@ -1,5 +1,7 @@
 # My Run
 
+[Run 2026](MyRun2026.md)
+
 [Run 2025](MyRun2025.md)
 
 [Run 2024](MyRun2024.md)
